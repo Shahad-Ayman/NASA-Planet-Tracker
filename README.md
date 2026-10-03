@@ -17,3 +17,11 @@ Information about the planets will be added here.
 Earth is our home planet.
 There are eight planets in our solar system.
 Jupiter is the largest planet in our solar system.
+## Planets
+- Earth
+- Mars
+- Jupiter
+### Earth
+Earth is the planet we live on.
+### Mars
+Mars is known as the red planet.
