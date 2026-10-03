@@ -16,3 +16,4 @@ Information about the planets will be added here.
 ## Planet Facts
 Earth is our home planet.
 There are eight planets in our solar system.
+Jupiter is the largest planet in our solar system.
