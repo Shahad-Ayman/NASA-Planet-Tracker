@@ -15,3 +15,5 @@ This project gives simple information about planets and space. It can help peopl
 - Earth
 - Mars
 - Jupiter
+### Earth
+Earth is the planet we live on.
