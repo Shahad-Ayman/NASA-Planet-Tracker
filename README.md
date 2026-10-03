@@ -17,3 +17,5 @@ This project gives simple information about planets and space. It can help peopl
 - Jupiter
 ### Earth
 Earth is the planet we live on.
+### Mars
+Mars is known as the red planet.
