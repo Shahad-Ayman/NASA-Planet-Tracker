@@ -15,3 +15,4 @@ This project gives simple information about planets and space. It can help peopl
 Information about the planets will be added here.
 ## Planet Facts
 Earth is our home planet.
+There are eight planets in our solar system.
