@@ -11,5 +11,3 @@ This project gives simple information about planets and space. It can help peopl
 1. Open the project.
 2. Open the HTML file.
 3. Read the information about the planets.
-## Planet Information
-Information about the planets will be added here.
