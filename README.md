@@ -13,3 +13,5 @@ This project gives simple information about planets and space. It can help peopl
 3. Read the information about the planets.
 ## Planet Information
 Information about the planets will be added here.
+## Planet Facts
+Earth is our home planet.
